@@ -254,6 +254,6 @@ cropped_video_pd1
 除了现在正在用的模型，还保存了近期的几个模型，在`保存的模型`文件夹，里面的`txt`文件有记录，目前准确率最高的是`1028_epoch_00200.pyth`
 
 # 可视化
-![vis1](images\vis1.jpg)
+![vis1](images/vis1.jpg)
 
 ![vis2](images\vis2.jpg)
