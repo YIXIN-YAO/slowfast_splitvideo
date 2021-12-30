@@ -209,7 +209,7 @@ data/200_50/pd1/14/woquan_0_video.avi 6
 
    根据这个文件，使用`data_process/get_sample_from_csv.py`，从原视频中剪切出这些片段加入数据集，最后得到大概1500个视频就是我们的数据集：
 
-   ![image-20211025163333438](images\image-20211025163333438.png)
+   ![image-20211025163333438](images/image-20211025163333438.png)
 
 ### 增加新的训练数据
 
@@ -256,4 +256,4 @@ cropped_video_pd1
 # 可视化
 ![vis1](images/vis1.jpg)
 
-![vis2](images\vis2.jpg)
+![vis2](images/vis2.jpg)
